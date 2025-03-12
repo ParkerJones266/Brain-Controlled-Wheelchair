@@ -1,1 +1,1 @@
-I made an EEG/EMG Controlled Car/Wheelchair, and here is all of the code you would need to use, and the MIT Liscence. IOf you want to learn how to make this project, please visit my [Instructables](https://www.instructables.com/Brain-Controlled-Wheelchair-1/).
+I made an EEG/EMG Controlled Car/Wheelchair, and here is all of the code you would need to use, and the MIT Liscence. If you want to learn how to make this project, please visit my [Instructables](https://www.instructables.com/Brain-Controlled-Wheelchair-1/).
